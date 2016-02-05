@@ -25,8 +25,8 @@ do
 	do
 		for ext in ${ext_list[@]}
 		do	
-			new="${side}_${number}.${ext}";
-			old="${number}_${side}.${ext}";
+			old="${side}_${number}.${ext}";
+			new="${number}_${side}.${ext}";
 			mv $old $new;
 
 		done
