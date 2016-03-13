@@ -1,0 +1,7 @@
+https://erget.wordpress.com/2014/02/01/calibrating-a-stereo-camera-with-opencv/
+https://erget.wordpress.com/2014/02/28/calibrating-a-stereo-pair-with-python/
+https://erget.wordpress.com/2014/03/13/building-an-interactive-gui-with-opencv/
+https://erget.wordpress.com/2014/04/27/producing-3d-point-clouds-with-a-stereo-camera-in-opencv/
+http://stackoverflow.com/questions/23976259/generating-3d-x-y-z-point-clouds-from-two-2d-stereo-images
+http://answers.opencv.org/question/28784/martin-peris-3d-reconstruction-with-opencv-and-point-cloud-library/
+http://blog.martinperis.com/2012/01/3d-reconstruction-with-opencv-and-point.html#
