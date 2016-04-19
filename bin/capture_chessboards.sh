@@ -1,5 +1,5 @@
 #!/bin/sh
-./calibrate_cameras.sh \
+./capture_chessboards \
 --rows 12 \
 --columns 18 \
 --square-size 3.81 \
